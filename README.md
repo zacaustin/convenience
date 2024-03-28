@@ -1,2 +1,2 @@
-# convenience
-Library of helpful stuff to have available rather quickly
+# Convenience
+Here is my library of helpful stuff that I like to have available rather quickly.
